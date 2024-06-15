@@ -1,8 +1,9 @@
 # eSports Card
-Projeto realizado durante a **Next Level Week E-sports**
 
 ![preview](./images/preview.PNG)
 
-## 💻 Tecnologias
+🎯 Projeto realizado durante a **Next Level Week E-sports pela Rocketseat**
+
+💻 Tecnologias
 
 - HTML e CSS
