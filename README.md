@@ -1,11 +1,8 @@
-# NLW_Esports
+# Esports Card
+Projeto realizado durante a **Next Level Week E-sports**
 
 ![preview](./images/preview.PNG)
 
-Projeto realizado durante a Next Level Week E-sports 2022
+## 💻 Tecnologias
 
-## Tecnologias
-
-- HTML
-- CSS
-- GIT E GITHUB
+- HTML e CSS
